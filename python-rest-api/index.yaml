@@ -8,6 +8,6 @@ entries:
     name: python-rest-api
     type: application
     urls:
-    - https://github.com/nejuvj/my-helm-charts.git/python-rest-api-0.1.0.tgz
+    - https://github.com/nejuvj/my-helm-charts.git/python-rest-api/python-rest-api-0.1.0.tgz
     version: 0.1.0
 generated: "2024-12-08T02:12:22.850126+05:30"
